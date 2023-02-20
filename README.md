@@ -7,4 +7,8 @@ EmployeeID, Gender, Age, Year of Service, Education, First Level, Current Level,
 
 
 # Define pattern 
-To 
+Look for patterns of how employees move from prev level to current level the longest and the shortest. Then the old range will be a reference percentage compared to the length of time in the current position.
+
+
+
+
